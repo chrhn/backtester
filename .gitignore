@@ -1,7 +1,6 @@
 # Ignore data files
 data/
 *.csv
-*.parquet
 
 # Python bytecode
 __pycache__/
