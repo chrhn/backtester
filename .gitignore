@@ -1,20 +1,15 @@
-# Byte-compiled / optimized / dependency files
-__pycache__/
-*.py[cod]
-*.egg-info/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Data files
+# Ignore data files
 data/
 *.csv
 *.parquet
 
-# Virtual environment
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
 venv/
 .env/
 
-# OS files
+# OS junk
 .DS_Store
-
